@@ -1,0 +1,56 @@
+Index html
+
+world clock HTML
+
+<h1>world clock project multiple HTML</h1>
+<select>
+<option value="">select a city</ption>
+<option value="city">Los angels</option>
+<option va;e="city">London</option>
+<option value="city">New York</opion>
+<option value="city">Auckland<?option>
+
+</select>
+<div class="city"
+<h2> Los angels</h2>
+<h3> London</h3>
+<h4>New York</h4>
+<h5>Auckland</h5>
+<div class="date">November 18nth 2024</div>
+<div class="time">15:38 PM</div>world clock HTML
+<h1>world clock pro HTML</h1>
+
+<div class="city"
+<h2> Los angels</h2>
+<h3> London</h3>
+<h4>New York</h4>
+<h5>Auckland</h5>
+<div class="date">November 18nth 2024</div>
+<div class="time">15:38 PM</div>
+
+<select>
+   {
+     <option value="city"select a city></option>
+     <option value="city"London></option>
+     <option value="city"New York></option>
+   <option value="city"Auckland></option>
+}
+</select>
+<div class="city"></div>
+<h2>
+   Los Angeles
+</h2>
+<div class="Date">11 February 2025</div>;
+<div class="Time">15:38:15</div>
+
+
+<a href=https://codesandbox.io/p/sandbox/js-time-zones-challenge-forked-rdz62p
+
+
+<footer>coded by Gugu Ginindza❤and is 
+
+<a href="#"target"-blank">open sourced on github</a>
+text -align:center;
+font size:18px;
+colour:rgba{0,0,0,0.8}
+{strong}Gugu{strong}
